@@ -1,0 +1,31 @@
+{
+              "total_cases":6384205,
+              "total_recovered":2920953,
+              "total_unresolved":2255875,
+              "total_deaths":377797,
+              "total_new_cases_today":21009,
+              "total_new_deaths_today":606,
+              "total_active_cases":17247,
+              "total_serious_cases":2720432,
+              "total_affected_countries":213,
+              "source":{
+                 "url":"https://thevirustracker.com/"
+              }
+           }
+
+
+
+pais: 
+
+/*
+    {"countrytimelinedata":[{"info":{
+		    "ourid":32,
+		    "title":"Colombia",
+		    "code":"CO",
+		    "source":"https://thevirustracker.com/colombia-coronavirus-information-co"
+         }}],
+    "timelineitems":[{
+    "3/06/20":{"new_daily_cases":1,"new_daily_deaths":0,"total_cases":1,"total_recoveries":0,"total_deaths":0},
+    "3/07/20":{"new_daily_cases":0,"new_daily_deaths":0,"total_cases":1,"total_recoveries":0,"total_deaths":0},
+    "stat":"ok"}]}
+     */
